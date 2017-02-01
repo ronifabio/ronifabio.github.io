@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on ronifabio</title>
-    <link>https://ronifabio.github.io/blog/publication/index.xml</link>
+    <link>https://ronifabio.github.io/publication/index.xml</link>
     <description>Recent content in Publications on ronifabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <copyright>Copyright &amp;copy; 2017</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/blog/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SOS-GP: Sistema para chamada de serviços de emergência e urgência por deficientes auditivos (TCC 1)</title>
-      <link>https://ronifabio.github.io/blog/publication/sos-gp/</link>
+      <link>https://ronifabio.github.io/publication/sos-gp/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/publication/sos-gp/</guid>
+      <guid>https://ronifabio.github.io/publication/sos-gp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FineClin: Sistema de gerenciamento de uma clínica multidisciplinar (TCC 1)</title>
-      <link>https://ronifabio.github.io/blog/publication/fine-clean/</link>
+      <link>https://ronifabio.github.io/publication/fine-clean/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/publication/fine-clean/</guid>
+      <guid>https://ronifabio.github.io/publication/fine-clean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WayPark: Sistema eletrônico de pagamento para Estacionamento Regulamentado.</title>
-      <link>https://ronifabio.github.io/blog/publication/way-park/</link>
+      <link>https://ronifabio.github.io/publication/way-park/</link>
       <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/publication/way-park/</guid>
+      <guid>https://ronifabio.github.io/publication/way-park/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chat4Event: Interatividade e comunicação interpessoal em eventos</title>
-      <link>https://ronifabio.github.io/blog/publication/chat-4-event/</link>
+      <link>https://ronifabio.github.io/publication/chat-4-event/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/publication/chat-4-event/</guid>
+      <guid>https://ronifabio.github.io/publication/chat-4-event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WeGoal: Sistema para gerenciamento e compartilhamento de objetivos financeiros individuais e coletivos.</title>
-      <link>https://ronifabio.github.io/blog/publication/we-goal/</link>
+      <link>https://ronifabio.github.io/publication/we-goal/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/publication/we-goal/</guid>
+      <guid>https://ronifabio.github.io/publication/we-goal/</guid>
       <description></description>
     </item>
     

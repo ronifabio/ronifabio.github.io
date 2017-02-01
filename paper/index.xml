@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on ronifabio</title>
-    <link>https://ronifabio.github.io/blog/paper/index.xml</link>
+    <link>https://ronifabio.github.io/paper/index.xml</link>
     <description>Recent content in Papers on ronifabio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <copyright>Copyright &amp;copy; 2017</copyright>
     <lastBuildDate>Thu, 05 Dec 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/blog/paper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/paper/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>An application of a multi-agent auction-based protocol to the tactical planning of oil product transport in the Brazilian multimodal network</title>
-      <link>https://ronifabio.github.io/blog/paper/cace-2013/</link>
+      <link>https://ronifabio.github.io/paper/cace-2013/</link>
       <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/paper/cace-2013/</guid>
+      <guid>https://ronifabio.github.io/paper/cace-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocolo de Leilões Simultâneos com Escalonamento: Aplicação ao Problema de Planejamento de Movimentações de Derivados de Petróleo</title>
-      <link>https://ronifabio.github.io/blog/paper/rita-2012/</link>
+      <link>https://ronifabio.github.io/paper/rita-2012/</link>
       <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/paper/rita-2012/</guid>
+      <guid>https://ronifabio.github.io/paper/rita-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Game Comparative Study: Object-Oriented Paradigm and Notification-Oriented Paradigm</title>
-      <link>https://ronifabio.github.io/blog/paper/jsea-2012-2/</link>
+      <link>https://ronifabio.github.io/paper/jsea-2012-2/</link>
       <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/paper/jsea-2012-2/</guid>
+      <guid>https://ronifabio.github.io/paper/jsea-2012-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notification Oriented and Object Oriented Paradigms Comparison via Sale System</title>
-      <link>https://ronifabio.github.io/blog/paper/jsea-2012/</link>
+      <link>https://ronifabio.github.io/paper/jsea-2012/</link>
       <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/paper/jsea-2012/</guid>
+      <guid>https://ronifabio.github.io/paper/jsea-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notification Oriented Paradigm (NOP) and Imperative Paradigm: A Comparative Study</title>
-      <link>https://ronifabio.github.io/blog/paper/jsea-2012-3/</link>
+      <link>https://ronifabio.github.io/paper/jsea-2012-3/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/paper/jsea-2012-3/</guid>
+      <guid>https://ronifabio.github.io/paper/jsea-2012-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aplicação de Padrões de Concorrência em Ambientes de Desenvolvimento Distribuído</title>
-      <link>https://ronifabio.github.io/blog/paper/recen-2007/</link>
+      <link>https://ronifabio.github.io/paper/recen-2007/</link>
       <pubDate>Mon, 05 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://ronifabio.github.io/blog/paper/recen-2007/</guid>
+      <guid>https://ronifabio.github.io/paper/recen-2007/</guid>
       <description></description>
     </item>
     
