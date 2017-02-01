@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on ronifabio</title>
+    <link>https://ronifabio.github.io/blog/publication_types/8/index.xml</link>
+    <description>Recent content in 8 on ronifabio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <copyright>Copyright &amp;copy; 2017</copyright>
+    <atom:link href="/blog/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modelo multiagentes baseado em um protocolo de leilões simultâneos para aplicação no problema de planejamento de transferências de produtos no segmento downstream do sistema logístico brasileiro de petróleo</title>
+      <link>https://ronifabio.github.io/blog/thesis/thesis/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronifabio.github.io/blog/thesis/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
