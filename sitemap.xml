@@ -20,6 +20,14 @@
     
     
     <url>
+      <loc>https://ronifabio.github.io/project/sos-gp/</loc>
+      <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://ronifabio.github.io/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -28,7 +36,7 @@
     
     
     <url>
-      <loc>https://ronifabio.github.io/post/</loc>
+      <loc>https://ronifabio.github.io/blog/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -84,38 +92,6 @@
     
     
     <url>
-      <loc>https://ronifabio.github.io/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://ronifabio.github.io/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://ronifabio.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://ronifabio.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>https://ronifabio.github.io/paper_congress/smc-2015/</loc>
       <lastmod>2015-10-09T00:00:00+00:00</lastmod>
     </url>
@@ -126,14 +102,6 @@
     <url>
       <loc>https://ronifabio.github.io/paper_congress/smc-2010/</loc>
       <lastmod>2015-10-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://ronifabio.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -369,15 +337,6 @@
     
     
     <url>
-      <loc>https://ronifabio.github.io/tags/academic/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>https://ronifabio.github.io/tags/demo/</loc>
       <lastmod>2013-01-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -385,24 +344,6 @@
     
   
     
-    
-  
-    
-    
-    <url>
-      <loc>https://ronifabio.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://ronifabio.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
     
   
     
@@ -427,7 +368,7 @@
     
     <url>
       <loc>https://ronifabio.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -436,7 +377,7 @@
     
     <url>
       <loc>https://ronifabio.github.io/tags/projeto-extensao/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
