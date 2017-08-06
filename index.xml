@@ -11,6 +11,15 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Reclama Guarapuava</title>
+      <link>https://ronifabio.github.io/project/reclama-guarapuava/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronifabio.github.io/project/reclama-guarapuava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SOS-GP: Sistema para chamada de serviços de emergência e urgência por deficientes auditivos (TCC 1)</title>
       <link>https://ronifabio.github.io/publication/sos-gp/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
@@ -152,15 +161,6 @@
       <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://ronifabio.github.io/paper/rita-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparações entre duas materializações do Paradigma Orientado a Notificações (PON): Framework PON Prototipal versus Framework PON Primário</title>
-      <link>https://ronifabio.github.io/paper_congress/comtel-2012/</link>
-      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://ronifabio.github.io/paper_congress/comtel-2012/</guid>
       <description></description>
     </item>
     
